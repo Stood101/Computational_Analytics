@@ -1,4 +1,4 @@
-#Computational Analytics Scripts
+# Computational Analytics Scripts
 
 This repository contains guided Python notebooks from the Computational Analytics coursework. These scripts cover foundational concepts and methodologies for data analysis, including:
 
